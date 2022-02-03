@@ -1,5 +1,7 @@
 # personal-trainer-site
 
+Deployed here https://personal-fitness-trainer.netlify.app/
+
 The very first website i made using HTML, CSS, Grid and ion icons. After completing a course from Udemy how to build Responsive Real World Websites with HTML5 and CSS3 i was able to do this cool website with 4 sections.  
 
 
